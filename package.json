@@ -1,0 +1,10 @@
+{
+  "name": "angularjs-xny1xj",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.25",
+    "angular": "^1.7.9",
+    "photoswipe": "^4.1.3"
+  }
+}
